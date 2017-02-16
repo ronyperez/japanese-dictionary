@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Japanese Dictionary</string>
+    <string name="edit_message">Enter word</string>
+    <string name="button_send">Translate</string>
+</resources>
